@@ -9,7 +9,7 @@ ui <- fluidPage(
   
   theme = shinytheme("united"),
   
-  titlePanel(tags$h1("🤤 Scotch Whisky Profiler 🤤")),
+  titlePanel("🤤 Scotch Whisky Profiler 🤤"),
   
   HTML("<br><br>"),
   
