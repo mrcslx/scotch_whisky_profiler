@@ -1,4 +1,4 @@
-![](images/scotch.png)
+# Dash x Scotch
+[Clicky](https://mrcslx.github.io/game_sales_report.html)
 
-# scotch_whisky_profiler
- Dashboard x Scotch
+![](images/scotch.png)
