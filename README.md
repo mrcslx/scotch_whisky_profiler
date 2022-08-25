@@ -1,5 +1,5 @@
 # Dash x Scotch
-[Clicky](https://mrcslx.github.io/game_sales_report.html)
+[Clicky](https://mrcslx.shinyapps.io/scotch_whisky_profiler/)
 <br/>
 <br/>
 <br/>
